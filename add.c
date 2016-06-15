@@ -6,8 +6,8 @@ int a = 20;
 int main () {
 
   /* local variable declaration in main function */
-  int a = 400;
-  int b = 400;
+  int a = 40;
+  int b = 40;
   int c = 0;
 
   printf ("value of a in main() = %d\n",  a);
